@@ -1,0 +1,3 @@
+﻿  cLageSkala.cpp
+C:\Users\Manoel Jessica\source\repos\operator\operator\cLageSkala.cpp(25,8): warning C4244: "Initialisierung": Konvertierung von "double" in "int", möglicher Datenverlust
+  operator.vcxproj -> C:\Users\Manoel Jessica\source\repos\operator\x64\Debug\operator.exe

@@ -1,0 +1,5 @@
+﻿  cJukebox.cpp
+  main.cpp
+  Code wird generiert...
+C:\Users\Manoel Jessica\source\repos\cJukebox\cJukebox\cJukebox.cpp(37): warning C4715: "cJukebox::operator[]": Nicht alle Codepfade geben einen Wert zurück.
+  cJukebox.vcxproj -> C:\Users\Manoel Jessica\source\repos\cJukebox\x64\Debug\Jukebox.exe
